@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Итак, из какого мультфильма эта знаменитая фраза?",
+        "url": "https://konstruktortestov.ru/files/0b71/6a96/cd1d/5a25/572e/30b1/2293/3a58/3241717967.jpg",
+        "options": ["Винни-Пух и все-все-все", "Каникулы в Простоквашино", "Карлсон, который живет на крыше"],
+        "correct_option": 0
+    },
+    {
+        "question": "А откуда эта крылатая фраза?",
+        "url": "https://konstruktortestov.ru/files/e770/6318/fb09/73d8/4508/4043/880d/a301/2254011182.jpg",
+        "options": ["Каникулы в Простоквашино", "Приключения домовенка", "Жил-был пёс"],
+        "correct_option": 2
+    },
+    {
+        "question": "В каком м/ф прозвучала эта фраза?",
+        "url": "https://konstruktortestov.ru/files/94b0/5741/17fd/4978/5854/0aec/157a/4ec8/2540718377.jpg",
+        "options": ["Ну, погоди!", "Ёжик в тумане", "Карлсон, который живет на крыше"],
+        "correct_option": 2
+    },
+    {
+        "question": "А в какой именно части Простоквашино прозвучала эта фраза?",
+        "url": "https://konstruktortestov.ru/files/3a1b/baa9/5bc0/9569/ec75/9b2c/0378/faeb/4292380502.jpg",
+        "options": ["Зима в Простоквашино", "Каникулы в Простоквашино", "Трое из Простоквашино"],
+        "correct_option": 0
+    },
+    {
+        "question": "Что насчет этой фразы?",
+        "url": "https://konstruktortestov.ru/files/d1ab/94ad/8e4a/75dd/c278/a52b/9a5d/d325/3032772252.jpg",
+        "options": ["Карлсон, который живет на крыше", "Возвращение блудного попугая", "Чебурашка и крокодил Гена"],
+        "correct_option": 1
+    },
+    {
+        "question": "Это слова из мультфильма...",
+        "url": "https://konstruktortestov.ru/files/1147/e673/b996/533a/1d2c/abc1/325d/dae9/2527715952.jpg",
+        "options": ["Дюймовочка", "Каникулы в Простоквашино", "Летучий корабль"],
+        "correct_option": 0
+    },
+    {
+        "question": "Откуда эта крылатая фраза?",
+        "url": "https://konstruktortestov.ru/files/a80b/06ea/e16b/2840/bad1/cf96/2ebc/45bb/3238216550.jpg",
+        "options": ["Бременские музыканты", "38 попугаев", "Летучий корабль"],
+        "correct_option": 2
+    },
+    {
+        "question": "Какой мультфильм тут?",
+        "url": "https://konstruktortestov.ru/files/8eef/cfdf/4b4d/3dbb/c9aa/fb59/f6ba/bd51/712119538.jpg",
+        "options": ["Падал прошлогодний снег", "Крокодил Гена", "Бобик в гостях у Барбоса"],
+        "correct_option": 1
+    },
+    {
+        "question": "Откуда эти слова?",
+        "url": "https://konstruktortestov.ru/files/bf9e/b091/bc85/0c26/232d/616a/0913/b958/287296258.jpg",
+        "options": ["Карлсон, который живет на крыше", "Трое из Простоквашино", "Возвращение блудного попугая"],
+        "correct_option": 0
+    },
+    {
+        "question": "И наконец, эта фраза из мультфильма...",
+        "url": "https://konstruktortestov.ru/files/5db0/60d4/e1ae/320b/f50e/2233/d16a/b2cd/2446421568.jpg",
+        "options": ["Винни-Пух и все-все-все", "Зима в Простоквашино", "Кот Леопольд"],
+        "correct_option": 2
+    }
+]
