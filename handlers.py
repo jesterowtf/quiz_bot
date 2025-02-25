@@ -37,10 +37,9 @@ async def quiz_start(message: types.Message):
     stats = await load_stats()
 
     text = ''
-    for i in range(len(stats)):
-        for row in stats:
-            row = list(row)
-            text += f'{i+1}.  [ {row[1]} ] набрал  [ {row[2]} ]  правильных ответов!'
+    for row in stats:
+        row = list(row)
+        text += f'{row[1]} набрал [ {row[2]} ] правильных ответов!\n'
 
     await message.answer(f'{text}')
 
