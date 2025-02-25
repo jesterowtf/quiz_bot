@@ -111,9 +111,6 @@ async def my_callback_foo(callback: types.CallbackQuery, callback_data: AnswerCa
         reply_markup=None
     )
 
-    # Получаем username пользователя, отправившего сообщение
-    username = callback.from_user.username
-
     # Получение текущей статистики для данного пользователя
     current_stats = await get_user_stats(callback.from_user.id)
         
@@ -134,7 +131,7 @@ async def my_callback_foo(callback: types.CallbackQuery, callback_data: AnswerCa
 
     # Обновление номера текущего вопроса и статистику в базе данных
     current_question_index += 1
-    await update_quiz(callback.from_user.id, username, current_question_index, current_stats)
+    await update_quiz(callback.from_user.id, callback.from_user.username, current_question_index, current_stats)
 
     # Проверяем достигнут ли конец квиза
     if current_question_index < len(quiz_data):
